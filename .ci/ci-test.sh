@@ -166,3 +166,4 @@ if [ -s error.log ]; then
     cat *.log
     exit 1
 fi
+echo "No Errors"
