@@ -32,6 +32,7 @@ builddir=$(pwd)
 srcdir=$(cd ..;pwd)
 version=$PACKAGE_VERSION
 
+
 cd $HOME/wix
 
 
